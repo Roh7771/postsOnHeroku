@@ -1,4 +1,4 @@
-import Http from '/lib.js'
+import Http from './lib.js'
 
 const rootEl = document.getElementById('root');
 
